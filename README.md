@@ -1,2 +1,2 @@
-# project-Titanic---Machine-Learning
-In this project, we will discover the story of the Titanic but through data. This project aims to introduce the most important steps of data analysis and explore the different stages. We will use the data of the survivors of the Titanic from the Kaggle website at the following link: https://www.kaggle.com/c/titanic The primary goal of this project is to use this data to understand who the Titanic survivors were. Are the survivors a random sample or are they from certain classes? How do the survivors compare to the rest of the passengers on the Titanic? And other questions.
+# data-science-project-1
+Contents of project 1
